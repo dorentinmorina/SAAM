@@ -9,7 +9,7 @@ Author: Dorentin Morina
 This project aims to implement some climate aware asset management concepts seen in class. The first part of the project consists in building a portfolio based on the mean-variance
 criterion. The second part focuses on the climate dimension of the portfolio with carbon emission reduction constraints, including a Net-Zero objective.
 
-## Screenshots
+## Results - Plots & Tables
 ![image](https://github.com/mdorentin/SAAM/assets/72168825/75f89c4e-945b-4b86-be37-27aad5146c4f)
 ![image](https://github.com/mdorentin/SAAM/assets/72168825/ca7295fa-f271-4c75-9326-ec9313317e58)
 <img src="https://github.com/mdorentin/SAAM/assets/72168825/1cd66c02-a438-4b82-9e6b-4449548252ee" alt="image" width="500"/>
