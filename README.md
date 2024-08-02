@@ -2,7 +2,7 @@
 
 Semester Project for the Sustainability Aware Asset Management Class @ HEC Lausanne
 
-Author: Dorentin Morina
+Author: Dorentin Morina, and Shpetim Tafili
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Description of the project
